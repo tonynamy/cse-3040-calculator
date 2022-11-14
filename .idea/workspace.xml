@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f64e764-3216-4c25-9aaf-6ea0562732e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assigment_02.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WindowDestroyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/BinaryOperatorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/CalculatorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/DigitButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/DigitButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/DigitOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/DpDigitButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/NumberDigitButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/OperatorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/OperatorButtonListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button/UnaryOperatorButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/BaseCalculableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/BinaryCalculableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/CalculableNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/CalculableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/UnaryCalculableObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/BinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/IBinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/IUnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operator/UnaryOperator.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HWaKMPSCWLfCY4161gC7Du74ps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f64e764-3216-4c25-9aaf-6ea0562732e2" name="Changes" comment="" />
+      <created>1668403231272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668403231272</updated>
+      <workItem from="1668403232467" duration="22528000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
