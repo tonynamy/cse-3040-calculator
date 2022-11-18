@@ -2,39 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f64e764-3216-4c25-9aaf-6ea0562732e2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assigment_02.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculateComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CalculateListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WindowDestroyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/BinaryOperatorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/CalculatorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/DigitButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/DigitButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/DigitOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/DpDigitButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/NumberDigitButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/OperatorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/OperatorButtonListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button/UnaryOperatorButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculable/BaseCalculableObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculable/BinaryCalculableObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculable/CalculableNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculable/CalculableObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculable/UnaryCalculableObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/BinaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/IBinaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/IUnaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/operator/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator_20211533.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OperatorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/BinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/DigitOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculable/UnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch/obermuhlner/math/big/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculateComponent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculateListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/BinaryOperatorButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/CalculatorButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/button/CalculatorButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/DigitButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/DigitButtonListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/DigitOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/DpDigitButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/NumberDigitButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/OperatorButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/OperatorButtonListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/button/UnaryOperatorButton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculable/BaseCalculableObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculable/BinaryCalculableObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculable/CalculableNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculable/CalculableObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculable/UnaryCalculableObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/BinaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/IBinaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/IUnaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/operator/UnaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/CalculateComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/CalculateListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Calculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Calculator$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Calculator$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Calculator$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Calculator$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/BinaryOperatorButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/CalculatorButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/button/CalculatorButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/DigitButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/DigitButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/DigitOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/DpDigitButton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/DpDigitButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/NumberDigitButton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/NumberDigitButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/OperatorButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/OperatorButtonListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/button/UnaryOperatorButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/calculable/BaseCalculableObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/calculable/BinaryCalculableObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/calculable/CalculableNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/calculable/CalculableObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/calculable/UnaryCalculableObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/operator/BinaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/operator/IBinaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/operator/IUnaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/operator/UnaryOperator.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +81,17 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="ProjectId" id="2HWaKMPSCWLfCY4161gC7Du74ps" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -67,10 +105,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -83,12 +126,13 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch/obermuhlner/math/big" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+    <configuration name="Calculator_20211533" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator_20211533" />
       <module name="Calculator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,7 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Calculator_20211533" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +152,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668403231272</updated>
-      <workItem from="1668403232467" duration="22528000" />
+      <workItem from="1668403232467" duration="24391000" />
+      <workItem from="1668570987187" duration="1158000" />
+      <workItem from="1668572157443" duration="601000" />
+      <workItem from="1668573090536" duration="33357000" />
     </task>
     <servers />
   </component>
@@ -125,5 +172,28 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Calculator_20211533.java</url>
+          <line>261</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="calculableList" language="JAVA" />
+      </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/Calculator_20211533.java" line="12">
+        <watch expression="((Calculator)this).caret" custom="Calculator" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
